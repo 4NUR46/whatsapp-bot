@@ -1,7 +1,7 @@
 {
   "memberLimit": 1000,
   "groupLimit": 50,
-  "prefix": "/",
+  "prefix": "#",
   "mtc": false,
   "banChats": false,
   "hackapi": "404Api",
